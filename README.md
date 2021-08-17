@@ -27,3 +27,7 @@ Currently, the only environment variable setup is `AWS_ACCOUNT_ID` which denotes
 make build
 make push
 ```
+
+## Author
+
+Colin But
